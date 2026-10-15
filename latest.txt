@@ -1,6 +1,8 @@
-0.22.4
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.4.exe
+0.23.0
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.23.0.exe
 
-• Einstellungen und Stem-Export haben oben rechts ein × zum Schließen (Esc und Klick daneben gehen auch)
-• Knöpfe werden beim Drüberfahren nicht mehr größer, nur die Farbe ändert sich
-• Projekt umbenennen direkt im Projekt-Bereich rechts: auf den Namen oder den Stift klicken
+• Neu: Effekte → „Auf den Beat ziehen…“ zieht jede Silbe einer Vocal-Spur aufs Beat-Raster (1/4, 1/8 oder 1/16), mit Regler „Stärke“; die Tonhöhe bleibt gleich
+• Silben werden auf der Spur angezeigt (gelb: Silbe, grün: Ziel); Alt+Klick fügt eine Silbe hinzu oder entfernt eine falsche
+• Klicks entfernen: findet jetzt auch leise Mundklicks mitten im Gesang und repariert nur den Hochtonbereich
+• Atmer entfernen: bessere Erkennung, auch bei nah aufgenommenen Atmern direkt vor der Zeile; „s“, „f“ und „h“ bleiben
+• Rhythmische Vocals (Rap) werden nicht mehr als Beat-Spur übersprungen
