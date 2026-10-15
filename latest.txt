@@ -1,5 +1,4 @@
-0.22.0
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.0.exe
+0.22.1
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.1.exe
 
-• Wavelet aktualisiert sich jetzt selbst
-• Schöneres Fenster für den Stem-Export
+• Beim Öffnen kannst du jetzt mehrere Dateien auf einmal auswählen: die erste wird das Projekt, jede weitere eine eigene Spur
