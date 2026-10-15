@@ -1,4 +1,4 @@
-0.22.1
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.1.exe
+0.22.2
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.2.exe
 
-• Beim Öffnen kannst du jetzt mehrere Dateien auf einmal auswählen: die erste wird das Projekt, jede weitere eine eigene Spur
+• Mauszeiger überarbeitet: Hand über allem Anklickbaren (Knöpfe, Menüs, Häkchen, Regler, Lineal), kein Text-Cursor mehr über normalem Text
