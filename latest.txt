@@ -1,0 +1,5 @@
+0.22.0
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.0.exe
+
+• Wavelet aktualisiert sich jetzt selbst
+• Schöneres Fenster für den Stem-Export
