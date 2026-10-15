@@ -2,4 +2,4 @@
 
 Wavelet looks here for new versions and installs them by itself.
 
-Newest version: **0.22.3** — [download Wavelet.exe](releases/Wavelet-0.22.3.exe?raw=1)
+Newest version: **0.22.2** — [download Wavelet.exe](releases/Wavelet-0.22.2.exe?raw=1)

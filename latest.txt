@@ -1,7 +1,4 @@
-0.22.3
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.3.exe
+0.22.2
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.22.2.exe
 
-• Einstellungen neu gestaltet, passend zum Export-Fenster
-• Tastenkürzel: lange Namen werden nicht mehr abgeschnitten oder überdeckt, Tasten, × und ⟲ stehen in sauberen Spalten
-• Suchfeld mit Rand und Leeren-Knopf, jede Gruppe in einem eigenen Block
-• Allgemein: Auswahl als Umschalter, eigener Bereich für Updates mit Versionsnummer
+• Mauszeiger überarbeitet: Hand über allem Anklickbaren (Knöpfe, Menüs, Häkchen, Regler, Lineal), kein Text-Cursor mehr über normalem Text
