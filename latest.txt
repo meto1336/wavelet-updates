@@ -1,8 +1,18 @@
-0.23.0
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.23.0.exe
+0.24.0
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.24.0.exe
 
-• Neu: Effekte → „Auf den Beat ziehen…“ zieht jede Silbe einer Vocal-Spur aufs Beat-Raster (1/4, 1/8 oder 1/16), mit Regler „Stärke“; die Tonhöhe bleibt gleich
-• Silben werden auf der Spur angezeigt (gelb: Silbe, grün: Ziel); Alt+Klick fügt eine Silbe hinzu oder entfernt eine falsche
-• Klicks entfernen: findet jetzt auch leise Mundklicks mitten im Gesang und repariert nur den Hochtonbereich
-• Atmer entfernen: bessere Erkennung, auch bei nah aufgenommenen Atmern direkt vor der Zeile; „s“, „f“ und „h“ bleiben
-• Rhythmische Vocals (Rap) werden nicht mehr als Beat-Spur übersprungen
+• „Auf den Beat ziehen“ wurde wieder entfernt
+• Gründliche Fehlersuche: rund 50 Fehler behoben
+• Atem- und Klick-Entfernung wirken jetzt auch, wenn nur die Stelle selbst ausgewählt ist
+• Wiedergabe: Zeiger läuft synchron zum Ton, Pause springt nicht mehr zurück, Klick ans Ende startet nicht von vorn
+• Abgestecktes Audiogerät wird erkannt, eine laufende Aufnahme bleibt erhalten
+• Aufnahme während der Wiedergabe startet an der aktuellen Stelle; die erste Aufnahme behält ihre Abtastrate
+• Esc bricht das Umbenennen ab, statt zu speichern
+• Mehrere Spuren entfernen oder duplizieren ist ein einziger Rückgängig-Schritt
+• Zuschneiden verschiebt nur noch alles gemeinsam, nichts läuft mehr auseinander
+• Marker verschwinden nicht mehr beim Verschieben aufeinander
+• MP3s starten ohne Verzögerung, Surround-Dateien werden sauber zu Stereo
+• Beschädigte Projekte bringen Wavelet nicht mehr zum Absturz; Export überschreibt Dateien sicher
+• Wiederherstellung nach einem Absturz wird sofort angeboten
+• Strg+Plus/Minus vergrößert nicht mehr versehentlich die ganze Oberfläche
+• Fehlermeldungen sind jetzt auf Deutsch
