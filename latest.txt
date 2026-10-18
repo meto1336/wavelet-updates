@@ -1,12 +1,7 @@
-0.24.1
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.24.1.exe
+0.24.2
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.24.2.exe
 
-• Mit Stille aufgefüllte Spuren lassen sich jetzt über 0:00 hinaus nach links ziehen, die Stille am Anfang wird dabei abgeschnitten
-• Löschen in einem stillen Bereich ohne „Ripple“ zeigt jetzt einen Hinweis
-• „Beats“ zeigt die Beats nur noch auf den ausgewählten Spuren
-• Ruhigeres Namensfeld beim Umbenennen, die Infos daneben springen nicht mehr
-• Stems-Dialog passt auf kleine Bildschirme, Esc im Info-Text verwirft nichts mehr
-• Zeitanzeige und Lautstärke-/Pan-Felder wackeln nicht mehr
-• Kommazahlen und Begriffe auf Deutsch („44,1 kHz“, „Abspielposition“)
-• Projekte öffnen nicht mehr halb weggescrollt, Scrollbalken liegen nicht mehr über den Spuren
-• Ausgegraute Knöpfe zeigen ihren Tooltip, Menü-Schalter zeigen ihr Tastenkürzel
+• Stems exportieren schreibt nur noch eine WAV pro Spur, ohne Info.txt, Rough Mix und ZIP
+• Neuer Button „Alle stumm“: schaltet alle Spuren stumm und mit einem zweiten Klick wieder laut
+• Der Beats-Button ist aus der Leiste entfernt (weiter über Ansicht → Beats anzeigen)
+• Deutlichere Hinweise an den Knöpfen M (stumm) und S (Solo)
