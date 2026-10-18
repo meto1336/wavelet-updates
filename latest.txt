@@ -1,18 +1,12 @@
-0.24.0
-https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.24.0.exe
+0.24.1
+https://raw.githubusercontent.com/meto1336/wavelet-updates/main/releases/Wavelet-0.24.1.exe
 
-• „Auf den Beat ziehen“ wurde wieder entfernt
-• Gründliche Fehlersuche: rund 50 Fehler behoben
-• Atem- und Klick-Entfernung wirken jetzt auch, wenn nur die Stelle selbst ausgewählt ist
-• Wiedergabe: Zeiger läuft synchron zum Ton, Pause springt nicht mehr zurück, Klick ans Ende startet nicht von vorn
-• Abgestecktes Audiogerät wird erkannt, eine laufende Aufnahme bleibt erhalten
-• Aufnahme während der Wiedergabe startet an der aktuellen Stelle; die erste Aufnahme behält ihre Abtastrate
-• Esc bricht das Umbenennen ab, statt zu speichern
-• Mehrere Spuren entfernen oder duplizieren ist ein einziger Rückgängig-Schritt
-• Zuschneiden verschiebt nur noch alles gemeinsam, nichts läuft mehr auseinander
-• Marker verschwinden nicht mehr beim Verschieben aufeinander
-• MP3s starten ohne Verzögerung, Surround-Dateien werden sauber zu Stereo
-• Beschädigte Projekte bringen Wavelet nicht mehr zum Absturz; Export überschreibt Dateien sicher
-• Wiederherstellung nach einem Absturz wird sofort angeboten
-• Strg+Plus/Minus vergrößert nicht mehr versehentlich die ganze Oberfläche
-• Fehlermeldungen sind jetzt auf Deutsch
+• Mit Stille aufgefüllte Spuren lassen sich jetzt über 0:00 hinaus nach links ziehen, die Stille am Anfang wird dabei abgeschnitten
+• Löschen in einem stillen Bereich ohne „Ripple“ zeigt jetzt einen Hinweis
+• „Beats“ zeigt die Beats nur noch auf den ausgewählten Spuren
+• Ruhigeres Namensfeld beim Umbenennen, die Infos daneben springen nicht mehr
+• Stems-Dialog passt auf kleine Bildschirme, Esc im Info-Text verwirft nichts mehr
+• Zeitanzeige und Lautstärke-/Pan-Felder wackeln nicht mehr
+• Kommazahlen und Begriffe auf Deutsch („44,1 kHz“, „Abspielposition“)
+• Projekte öffnen nicht mehr halb weggescrollt, Scrollbalken liegen nicht mehr über den Spuren
+• Ausgegraute Knöpfe zeigen ihren Tooltip, Menü-Schalter zeigen ihr Tastenkürzel
